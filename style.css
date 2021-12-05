@@ -1,7 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14 px;
+}
+
 body {
     height: 95vh;
     width: 95;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #5ce365;
+    background-image:  repeating-linear-gradient(45deg, #49d75c 25%, transparent 25%, transparent 75%, #49d75c 75%, #49d75c), repeating-linear-gradient(45deg, #49d75c 25%, #5ce365 25%, #5ce365 75%, #49d75c 75%, #49d75c);
+    background-position: 0 0, 40px 40px;
+    background-size: 80px 80px;
+}
+
+.texto {
+    color: white;
+    margin-right: 5vh;
+    padding: 5vh;
+    background-color: green;
+    border: 5px solid green;
+    height: 524px;
+    max-width: 400px;
+}
+
+.page-title {
+    align-self: start;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.page-subtitle {
+    margin-bottom: 10px;
+}
+
+.instrucoes {
+    margin-bottom: 40px;
+}
+
+.canvas {
+    background-color:lightgreen;
+    opacity: 0.8;
+    border: 5px solid green ;
 }
