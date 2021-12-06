@@ -1,4 +1,4 @@
-<img src="img/github-title" width="420px">
+<img src="img/github-title.png" width="420px">
 
 <h2 class="sobre">💻 Sobre o projeto</h2>
 Jogo da cobrinha desenvolvido utilizando HTML, CSS e JavaScript. :snake:  
