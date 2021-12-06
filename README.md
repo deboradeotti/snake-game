@@ -1,9 +1,11 @@
-<img src="./img/github-title" width="420px">
+<img src="img/github-title" width="420px">
 
 <h2 class="sobre">💻 Sobre o projeto</h2>
-:construction:  Projeto em construção  :construction:
+Jogo da cobrinha desenvolvido utilizando HTML, CSS e JavaScript. :snake:  
 
-[Veja como está ficando](https://deboradeotti.github.io/snake-game/)
+:construction:  Projeto em construção  :construction:  
+
+[Acessar](https://deboradeotti.github.io/snake-game/)
 
 <h2 class="tecnologias">🛠️ Tecnologias</h2>
 
