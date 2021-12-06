@@ -26,25 +26,36 @@ body {
     background-color: green;
     border: 5px solid green;
     height: 524px;
-    max-width: 400px;
+    width: 500px;
 }
 
 .page-title {
-    align-self: start;
-    display: inline-block;
-    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 20px;
+    width: 420px;
 }
 
 .page-subtitle {
     margin-bottom: 10px;
+    font-family: 'Fira Code', monospace;
 }
 
 .instrucoes {
     margin-bottom: 40px;
+    font-family: 'Fira Code', monospace;
 }
 
 .canvas {
     background-color:lightgreen;
     opacity: 0.8;
     border: 5px solid green ;
+}
+
+.keys {
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
