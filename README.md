@@ -1,9 +1,7 @@
-<img src="img/github-title.png" width="420px">
+<img src="img/github-title.png" width="500px">
 
 <h2 class="sobre">💻 Sobre o projeto</h2>
-Jogo da cobrinha desenvolvido utilizando HTML, CSS e JavaScript. :snake:  
-
-:construction:  Projeto em construção  :construction:  
+Jogo da cobrinha desenvolvido utilizando HTML, CSS e JavaScript. :snake:    
 
 [Acessar](https://deboradeotti.github.io/snake-game/)
 
